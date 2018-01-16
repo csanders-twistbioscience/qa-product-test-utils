@@ -94,17 +94,12 @@ summary_df['freq_delta'] = summary_df.observed_freq - summary_df.target_frequenc
 print(summary_df)
 
 """ Simple nucleotide calculations """
-num_of_Ts = raw_seq.count('T')
-
-num_of_GCs = raw_seq.count('GC')
-
-num_of_ATs = raw_seq.count('AT')
-
-num_of_Gs = raw_seq.count('G')
-
-num_of_As = raw_seq.count('A')
-
-num_of_Cs = raw_seq.count('C')
+# num_of_Ts = raw_seq.count('T')
+# num_of_GCs = raw_seq.count('GC')
+# num_of_ATs = raw_seq.count('AT')
+# num_of_Gs = raw_seq.count('G')
+# num_of_As = raw_seq.count('A')
+# num_of_Cs = raw_seq.count('C')
 
 
 # print('\n')
